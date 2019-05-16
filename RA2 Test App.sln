@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RA2 Test App", "RA2 Test App\RA2 Test App.csproj", "{9CB7D052-437C-4290-AFC9-E6C950449EB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CB7D052-437C-4290-AFC9-E6C950449EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB7D052-437C-4290-AFC9-E6C950449EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB7D052-437C-4290-AFC9-E6C950449EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB7D052-437C-4290-AFC9-E6C950449EB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C6A9D06-A4E7-46A1-B6F7-280C1FA33AF8}
+	EndGlobalSection
+EndGlobal
